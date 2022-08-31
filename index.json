@@ -1,0 +1,28 @@
+{
+	"title": "武科大新闻 API",
+	"author": "Monkeyhbd, LINGHANG STUDIO",
+	"list": [
+		{
+			"title": "总览",
+			"path": "./README.md",
+			"rename": "index"
+		},
+		{
+			"title": "status",
+			"path": "./status.md"
+		},
+		{
+			"title": "POST 接口",
+			"list": [
+				{
+					"title": "news-list",
+					"path": "./post/news-list.md"
+				},
+				{
+					"title": "news-content",
+					"path": "./post/news-content.md"
+				}
+			]
+		}
+	]
+}

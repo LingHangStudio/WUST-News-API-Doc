@@ -21,6 +21,10 @@
 				{
 					"title": "news-content",
 					"path": "./post/news-content.md"
+				},
+				{
+					"title": "house-sub",
+					"path": "./post/house-sub.md"
 				}
 			]
 		}

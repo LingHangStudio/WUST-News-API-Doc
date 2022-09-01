@@ -25,6 +25,10 @@
 				{
 					"title": "house-sub",
 					"path": "./post/house-sub.md"
+				},
+				{
+					"title": "house-news",
+					"path": "./post/house-news.md"
 				}
 			]
 		}

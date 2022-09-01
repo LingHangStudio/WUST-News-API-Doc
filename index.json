@@ -12,7 +12,7 @@
 			"path": "./status.md"
 		},
 		{
-			"title": "POST 接口",
+			"title": "POST API",
 			"list": [
 				{
 					"title": "news-list",

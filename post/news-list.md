@@ -59,3 +59,43 @@
 - `title`：新闻的标题字符串
 - `date`：新闻的日期
 - `picList`：新闻中包含的图片列表，每项为图片的 URL 字符串
+
+## 编号
+
+### 大类编号
+
+| 编号 | 名称 | 拼音 |
+| --- | --- | --- |
+| 1 | 学院 | xueyuan |
+| 2 | 教务 | jiaowu |
+| 4 | 团委 | tuanwei |
+
+### 小类编号
+
+#### 学院 (1)
+
+| 编号 | 名称 | 拼音 |
+| --- | --- | --- |
+| 1 | 要闻 | yaowen |
+| 2 | 媒体 | meiti |
+| 3 | 学术 | xueshu |
+| 4 | 综合 | zonghe |
+| 5 | 院系 | yuanxi |
+
+### 教务 (2)
+
+| 编号 | 名称 | 拼音 |
+| --- | --- | --- |
+| 1 | 通知公告 | tongzhigonggao |
+| 2 | 教学动态 | jiaoxuedongtai |
+
+### 团委 (3)
+
+| 编号 | 名称 | 拼音 |
+| --- | --- | --- |
+| 1 | 团情 | tuanqing |
+| 2 | 基层信息 | jicengxinxi |
+| 3 | 文件资料 | wenjianziliao |
+| 4 | 学生活动 | xueshenghuodong |
+| 5 | 热点聚焦 | redianjujiao |
+| 6 | 他山之石 | tashanzhishi |
